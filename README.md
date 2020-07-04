@@ -1,5 +1,5 @@
 # Pandas-Challenge
-#### Pandas, Pandas, Pandas
+#### 🐼 Pandas, Pandas, Pandas 🐼
 
 ## Get Started
 This Project Analyzes Data and Generates Reports for
